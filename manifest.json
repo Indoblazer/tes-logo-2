@@ -1,0 +1,38 @@
+{
+  "name": "IndoBlazer",
+  "short_name": "IndoBlazer",
+  "start_url": "https://www.indoblazer.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-K87J0qWJg-E/XTKnC9IG8BI/AAAAAAAAXws/3lnx0lITGqQ2Xfi5TUfcjqM01irUqo79wCLcBGAs/s48/IndoBlazerNew.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-K87J0qWJg-E/XTKnC9IG8BI/AAAAAAAAXws/3lnx0lITGqQ2Xfi5TUfcjqM01irUqo79wCLcBGAs/s72/IndoBlazerNew.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-K87J0qWJg-E/XTKnC9IG8BI/AAAAAAAAXws/3lnx0lITGqQ2Xfi5TUfcjqM01irUqo79wCLcBGAs/s96/IndoBlazerNew.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-K87J0qWJg-E/XTKnC9IG8BI/AAAAAAAAXws/3lnx0lITGqQ2Xfi5TUfcjqM01irUqo79wCLcBGAs/s144/IndoBlazerNew.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-K87J0qWJg-E/XTKnC9IG8BI/AAAAAAAAXws/3lnx0lITGqQ2Xfi5TUfcjqM01irUqo79wCLcBGAs/s168/IndoBlazerNew.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-K87J0qWJg-E/XTKnC9IG8BI/AAAAAAAAXws/3lnx0lITGqQ2Xfi5TUfcjqM01irUqo79wCLcBGAs/s192/IndoBlazerNew.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-K87J0qWJg-E/XTKnC9IG8BI/AAAAAAAAXws/3lnx0lITGqQ2Xfi5TUfcjqM01irUqo79wCLcBGAs/s512/IndoBlazerNew.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
